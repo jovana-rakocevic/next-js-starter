@@ -1,7 +1,14 @@
 {
   "experimentalTernaries": true,
   "bracketSameLine": true,
+  "trailingComma": "es5",
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "quoteProps": "consistent",
+  "useTabs": false,
   "tabWidth": 2,
   "semi": true,
-  "printWidth": 100
+  "printWidth": 100,
+  "tailwindAttributes": ["classNames"],
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
