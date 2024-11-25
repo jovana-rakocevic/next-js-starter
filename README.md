@@ -5,13 +5,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-npm run dev
-# or
+
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -34,3 +30,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Branching
+
+All branching should be done from develop branch
+Merge develop into main only when all code ready and is thorougly tested
+
+
+## Code formatting 
+
+Settings are done under the assumption that you will be using Visual Studio Code as your editor.
+If you are using any other editor please see here how to configure prettier https://prettier.io/docs/en/editors
+If your editor does not support prettier, you can instead run Prettier with a file watcher https://prettier.io/docs/en/watching-files
