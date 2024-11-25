@@ -35,3 +35,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 All branching should be done from develop branch
 Merge develop into main only when all code ready and is thorougly tested
+
+
+## Code formatting 
+
+Settings are done under the assumption that you will be using Visual Studio Code as your editor.
+If you are using any other editor please see here how to configure prettier https://prettier.io/docs/en/editors
+If your editor does not support prettier, you can instead run Prettier with a file watcher https://prettier.io/docs/en/watching-files
