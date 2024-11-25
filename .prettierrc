@@ -3,5 +3,7 @@
   "bracketSameLine": true,
   "tabWidth": 2,
   "semi": true,
-  "printWidth": 100
+  "printWidth": 100,
+  "tailwindAttributes": ["classNames"],
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
