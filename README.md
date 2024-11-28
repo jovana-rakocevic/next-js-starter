@@ -36,6 +36,10 @@ Settings are done under the assumption that you will be using Visual Studio Code
 If you are using any other editor please see here how to configure prettier https://prettier.io/docs/en/editors
 If your editor does not support prettier, you can instead run Prettier with a file watcher https://prettier.io/docs/en/watching-files
 
+### Eslint
+
+Eslint is configured however feel free to adjust to specific projects needs by editing .eslintrc.json file
+
 ### Tailwind config
 
 A prettier extension was added to format tailwind classes always in the same way.
