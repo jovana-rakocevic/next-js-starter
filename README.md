@@ -38,6 +38,7 @@ If your editor does not support prettier, you can instead run Prettier with a fi
 
 ### Eslint
 
+If you are using vscode install ESLint https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 Eslint is configured however feel free to adjust to specific projects needs by editing .eslintrc.json file
 
 ### Tailwind config
