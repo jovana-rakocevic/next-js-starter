@@ -6,7 +6,7 @@ export default function Home() {
       <span>
         See repository on Github ✨
         <Link
-          href={"https://github.com/jovana-rakocevic/next-js-starter"}
+          href="https://github.com/jovana-rakocevic/next-js-starter"
           className="text-blue-400 underline">
           here
         </Link>
